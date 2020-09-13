@@ -1,6 +1,7 @@
 {
-    "bot-prefix": "Lango_",
+    "bot-prefix": "Hundi_",
     "bot-amount": 100,
+    "to-follow": "_Dave_Craft_",
     "server": {
         "adress": "lango.link",
         "port": 25565
