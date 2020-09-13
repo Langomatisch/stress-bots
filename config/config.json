@@ -1,0 +1,8 @@
+{
+    "bot-prefix": "Lango_",
+    "bot-amount": 100,
+    "server": {
+        "adress": "lango.link",
+        "port": 25565
+    }
+}
